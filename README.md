@@ -21,13 +21,13 @@ The repository focuses on aligning business strategy, technology modernization, 
 
 The framework helps organizations:
 
-- Plan enterprise transformation initiatives
-- Align business and technology goals
-- Improve governance maturity
-- Accelerate modernization programs
-- Improve operational resilience
-- Build executive reporting structures
-- Create measurable transformation roadmaps
+- plan enterprise transformation initiatives
+- align business and technology goals
+- improve governance maturity
+- accelerate modernization programs
+- improve operational resilience
+- build executive reporting structures
+- create measurable transformation roadmaps
 
 ## Framework Components
 
@@ -40,9 +40,13 @@ The framework helps organizations:
 7. Executive Reporting
 8. Continuous Improvement
 
-## Enterprise Context
+## How To Use This Repo
 
-This repository incorporates enterprise architecture, SRE, cloud governance, disaster recovery, FinOps, and operational resilience experience into executive transformation planning models.
+1. Read the framework overview and transformation strategy.
+2. Review the executive governance model and roadmap sequence.
+3. Use the roadmap files to shape specific modernization initiatives.
+4. Apply the templates to structure planning, reviews, and reporting.
+5. Track maturity and impact over time.
 
 ## Repository Structure
 
@@ -52,20 +56,16 @@ roadmaps/                Executive technology roadmaps
 templates/               Reusable roadmap templates
 maturity-model/          Transformation maturity models
 transformation-models/   Strategic transformation models
-diagrams/                Visual transformation assets
 evidence/                Transformation evidence notes
 references/              Bibliography
-use-cases/               Example transformation scenarios
-
 ```
-
-## Start Here
-
-1. Read the framework overview.
-2. Review the transformation strategy and executive governance docs.
-3. Use the roadmaps and templates to plan initiatives.
-4. Expand maturity models and evidence next.
 
 ## Core Content
 
 - [Executive Roadmap Sequence](roadmaps/executive-roadmap-sequence.md)
+- [Framework Overview](docs/framework-overview.md)
+- [Transformation Strategy](docs/transformation-strategy.md)
+- [Executive Governance](docs/executive-governance.md)
+- [Platform Transformation](docs/platform-transformation.md)
+- [Cloud Modernization Roadmaps](docs/cloud-modernization-roadmaps.md)
+- [Operational Resilience Roadmaps](docs/operational-resilience-roadmaps.md)
