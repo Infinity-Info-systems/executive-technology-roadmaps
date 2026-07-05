@@ -56,3 +56,16 @@ diagrams/                Visual transformation assets
 evidence/                Transformation evidence notes
 references/              Bibliography
 use-cases/               Example transformation scenarios
+
+```
+
+## Start Here
+
+1. Read the framework overview.
+2. Review the transformation strategy and executive governance docs.
+3. Use the roadmaps and templates to plan initiatives.
+4. Expand maturity models and evidence next.
+
+## Core Content
+
+- [Executive Roadmap Sequence](roadmaps/executive-roadmap-sequence.md)
