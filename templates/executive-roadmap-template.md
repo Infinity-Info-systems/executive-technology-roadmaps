@@ -7,6 +7,7 @@
 ## Executive Summary
 
 Describe the current state, target state, and overall direction.
+Summarize the business reason for the roadmap in a few sentences.
 
 ## Workstreams
 
@@ -21,3 +22,9 @@ Describe the current state, target state, and overall direction.
 | Milestone | Quarter | Owner | Outcome | Status |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
+
+## Review Notes
+
+- key decisions
+- main risks
+- next review date

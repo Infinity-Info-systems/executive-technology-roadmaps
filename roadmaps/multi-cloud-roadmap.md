@@ -15,3 +15,4 @@ Show the sequence of work for standardizing and governing a multi-cloud environm
 
 - focus on control consistency
 - reduce platform fragmentation
+- treat governance and operating model changes as part of the roadmap, not afterthoughts

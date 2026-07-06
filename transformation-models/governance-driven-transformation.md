@@ -16,3 +16,4 @@ This model uses governance to keep transformation work sequenced, funded, and me
 
 - keep the roadmap connected to executive oversight
 - make governance an enabler rather than a blocker
+- make decision rights visible in the transformation plan

@@ -10,6 +10,8 @@ Executive governance defines how roadmaps are reviewed, approved, funded, and ad
 - keep decisions and actions visible
 - assign owners to each initiative
 - review risks and dependencies regularly
+- track open decisions and blocked items explicitly
+- separate status reporting from decision escalation
 
 ## Governance Questions
 
@@ -24,3 +26,7 @@ Executive governance defines how roadmaps are reviewed, approved, funded, and ad
 - action log
 - decision record
 - escalation list
+
+## Operating Principle
+
+Governance should reduce ambiguity, not create ceremony. The page should support fast review, clear ownership, and decisive follow-up.

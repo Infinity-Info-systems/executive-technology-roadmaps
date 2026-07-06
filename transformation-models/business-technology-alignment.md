@@ -15,3 +15,4 @@ Align transformation roadmaps to business capabilities, priorities, and outcomes
 
 - make sure technology work supports business value
 - show the business reason for each roadmap item
+- use the same alignment language across all roadmap pages

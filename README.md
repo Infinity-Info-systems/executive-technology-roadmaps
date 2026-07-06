@@ -5,6 +5,7 @@
 This repository presents executive technology roadmaps and transformation planning frameworks for enterprise cloud modernization, operational resilience, governance maturity, reliability engineering, FinOps optimization, and platform transformation initiatives.
 
 The repository focuses on aligning business strategy, technology modernization, governance, and operational execution into measurable transformation roadmaps.
+It is intended to be used as a planning and decision-making hub, not just a document archive.
 
 ## Core Areas
 
@@ -16,6 +17,9 @@ The repository focuses on aligning business strategy, technology modernization, 
 - Operational resilience strategy
 - Executive governance
 - Business and technology alignment
+- transformation sequencing
+- maturity reviews
+- executive reporting
 
 ## Objectives
 
@@ -28,6 +32,8 @@ The framework helps organizations:
 - improve operational resilience
 - build executive reporting structures
 - create measurable transformation roadmaps
+- keep modernization decisions visible and repeatable
+- reduce roadmap drift over time
 
 ## Framework Components
 
@@ -40,6 +46,21 @@ The framework helps organizations:
 7. Executive Reporting
 8. Continuous Improvement
 
+## Content Model
+
+This repository is organized around three practical layers:
+
+- strategy pages that explain the why
+- roadmap pages that show the sequence
+- template pages that make it reusable
+
+## Recommended Use
+
+- use the roadmap sequence when building a new transformation plan
+- use the maturity model when checking progress and readiness
+- use the templates when writing a quarterly review or executive pack
+- keep initiative names consistent across docs, diagrams, and reports
+
 ## How To Use This Repo
 
 1. Read the framework overview and transformation strategy.
@@ -47,6 +68,7 @@ The framework helps organizations:
 3. Use the roadmap files to shape specific modernization initiatives.
 4. Apply the templates to structure planning, reviews, and reporting.
 5. Track maturity and impact over time.
+6. Keep the roadmap content aligned to the same business outcomes that appear in related repos.
 
 ## Repository Structure
 
@@ -69,3 +91,6 @@ references/              Bibliography
 - [Platform Transformation](docs/platform-transformation.md)
 - [Cloud Modernization Roadmaps](docs/cloud-modernization-roadmaps.md)
 - [Operational Resilience Roadmaps](docs/operational-resilience-roadmaps.md)
+- [Transformation Maturity Model](maturity-model/transformation-maturity-model.md)
+- [Transformation Plan Template](templates/transformation-plan-template.md)
+- [Quarterly Maturity Review](templates/quarterly-maturity-review.md)

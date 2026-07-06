@@ -11,9 +11,12 @@ Cloud modernization roadmaps show how to sequence cloud changes in a way that su
 - workload migration
 - application modernization
 - optimization and standardization
+- platform consolidation
+- operating model updates
 
 ## Planning Notes
 
 - start with foundational controls
 - sequence by dependency and value
 - keep a clear owner for each workstream
+- align the roadmap to measurable business milestones

@@ -11,6 +11,8 @@ Platform transformation focuses on changes that improve delivery speed, standard
 - deployment consistency
 - operational automation
 - observability and reliability
+- golden paths
+- platform service ownership
 
 ## Planning Questions
 
@@ -24,3 +26,7 @@ Platform transformation focuses on changes that improve delivery speed, standard
 - capability gaps
 - sequencing notes
 - milestone list
+
+## Outcome Focus
+
+This page should help leaders understand how platform improvements translate into faster delivery, lower risk, and better service stability.

@@ -3,6 +3,7 @@
 ## Purpose
 
 This index organizes the repo into a front door for executive transformation planning, modernization roadmaps, and governance alignment.
+Use it when you want the shortest path to the right roadmap, template, or decision framework.
 
 ## Entry Points
 
@@ -13,6 +14,14 @@ This index organizes the repo into a front door for executive transformation pla
 - [Platform Transformation](./platform-transformation.md)
 - [Cloud Modernization Roadmaps](./cloud-modernization-roadmaps.md)
 - [Operational Resilience Roadmaps](./operational-resilience-roadmaps.md)
+
+## Reading Order
+
+1. Read the framework overview.
+2. Review the roadmap sequence.
+3. Open the relevant roadmap page.
+4. Use the template to turn it into a working plan.
+5. Capture the result in the maturity and impact pages.
 
 ## Transformation Models and Maturity
 
@@ -42,4 +51,4 @@ This index organizes the repo into a front door for executive transformation pla
 ## Shared Direction
 
 Use the same section structure as the other core repos so the ecosystem stays consistent and easy to extend.
-
+Write each page so an executive can understand the business point in the first few lines.

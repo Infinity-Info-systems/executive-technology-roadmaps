@@ -28,3 +28,7 @@
 
 - transformation is measured and improved over time
 - governance is embedded in execution
+
+## Reading Guidance
+
+Use this model to decide whether the organization is ready to scale transformation work or whether foundational governance still needs attention.

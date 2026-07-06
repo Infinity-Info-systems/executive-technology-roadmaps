@@ -3,6 +3,7 @@
 ## What This Repository Does
 
 This repository helps executives and transformation teams turn strategy into a sequenced roadmap with governance, ownership, and measurable outcomes.
+It acts as the operating guide for transformation conversations that need both structure and momentum.
 
 ## What It Covers
 
@@ -28,6 +29,8 @@ This repository helps executives and transformation teams turn strategy into a s
 - ownership is explicit
 - status is reviewed on a predictable cadence
 - progress is measured with practical metrics
+- decisions are documented in plain language
+- changes to the roadmap are easy to trace
 
 ## Outputs
 
@@ -36,3 +39,7 @@ This repository helps executives and transformation teams turn strategy into a s
 - maturity review
 - governance model
 - impact notes
+
+## Why It Matters
+
+Without a shared roadmap framework, transformation work tends to fragment into disconnected initiatives. This repo keeps the sequence, language, and outcomes aligned.

@@ -18,3 +18,5 @@
 - key risks
 - decisions needed
 - next-quarter priorities
+- evidence reviewed
+- owner follow-up items

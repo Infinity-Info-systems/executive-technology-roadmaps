@@ -10,3 +10,8 @@ Sequence improvements that move the organization from basic reliability practice
 - SLO adoption
 - incident learning
 - reliability automation
+
+## Notes
+
+- tie each phase to measurable reliability improvements
+- show the operational practices that mature over time

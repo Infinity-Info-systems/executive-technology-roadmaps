@@ -15,3 +15,5 @@ State the business objective and the transformation approach.
 - main risks
 - decisions required
 - success measures
+- dependencies
+- review cadence

@@ -11,6 +11,8 @@ The transformation strategy explains how the organization will move from current
 - platform modernization
 - resilience improvement
 - operating model clarity
+- measurable execution
+- decision visibility
 
 ## Strategy Questions
 
@@ -25,3 +27,7 @@ The transformation strategy explains how the organization will move from current
 - prioritized initiatives
 - target horizons
 - success metrics
+
+## Decision Rule
+
+If an initiative does not improve business value, reduce risk, or strengthen operating confidence, it should not be elevated into the roadmap.

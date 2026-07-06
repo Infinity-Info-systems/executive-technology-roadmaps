@@ -54,6 +54,8 @@ Use this sequence to connect strategy, governance, delivery, and reporting in a 
 - show dependencies clearly
 - avoid overloading one quarter with too many initiatives
 - review the roadmap at a fixed executive cadence
+- capture decisions that change the sequence
+- use the same milestone language in every supporting doc
 
 ## Related Artifacts
 
