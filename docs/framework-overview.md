@@ -4,6 +4,7 @@
 
 This repository helps executives and transformation teams turn strategy into a sequenced roadmap with governance, ownership, and measurable outcomes.
 It acts as the operating guide for transformation conversations that need both structure and momentum.
+The framework is meant to reduce roadmap drift and keep decisions visible.
 
 ## What It Covers
 
@@ -31,6 +32,15 @@ It acts as the operating guide for transformation conversations that need both s
 - progress is measured with practical metrics
 - decisions are documented in plain language
 - changes to the roadmap are easy to trace
+
+## How To Read It
+
+Start with the framework overview, then move into transformation strategy and executive governance.
+That sequence keeps the focus on the why before getting into the work breakdown.
+
+## Result
+
+The framework helps the organization turn strategy into a roadmap that is sequenced, governable, and easier to fund.
 
 ## Outputs
 

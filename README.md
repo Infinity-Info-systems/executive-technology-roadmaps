@@ -6,6 +6,7 @@ This repository presents executive technology roadmaps and transformation planni
 
 The repository focuses on aligning business strategy, technology modernization, governance, and operational execution into measurable transformation roadmaps.
 It is intended to be used as a planning and decision-making hub, not just a document archive.
+The goal is to make the transformation path clear enough that leaders can choose priorities without losing sight of dependencies.
 
 ## Core Areas
 
@@ -20,6 +21,9 @@ It is intended to be used as a planning and decision-making hub, not just a docu
 - transformation sequencing
 - maturity reviews
 - executive reporting
+- sequenced delivery planning
+- decision traceability
+- risk-aware prioritization
 
 ## Objectives
 
@@ -69,6 +73,7 @@ This repository is organized around three practical layers:
 4. Apply the templates to structure planning, reviews, and reporting.
 5. Track maturity and impact over time.
 6. Keep the roadmap content aligned to the same business outcomes that appear in related repos.
+7. Use the roadmap to show what happens first, what must wait, and why.
 
 ## Repository Structure
 
@@ -94,3 +99,12 @@ references/              Bibliography
 - [Transformation Maturity Model](maturity-model/transformation-maturity-model.md)
 - [Transformation Plan Template](templates/transformation-plan-template.md)
 - [Quarterly Maturity Review](templates/quarterly-maturity-review.md)
+
+## Executive Takeaway
+
+Use this repo when leaders need to connect transformation ambition to an executable plan.
+It helps answer:
+
+- What should happen first?
+- What is blocked by dependencies?
+- How do we keep the roadmap aligned to business outcomes?

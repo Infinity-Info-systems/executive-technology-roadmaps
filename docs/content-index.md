@@ -4,6 +4,7 @@
 
 This index organizes the repo into a front door for executive transformation planning, modernization roadmaps, and governance alignment.
 Use it when you want the shortest path to the right roadmap, template, or decision framework.
+The content order is arranged so reviewers move from strategy into sequencing and then into the supporting artifacts.
 
 ## Entry Points
 
@@ -52,3 +53,4 @@ Use it when you want the shortest path to the right roadmap, template, or decisi
 
 Use the same section structure as the other core repos so the ecosystem stays consistent and easy to extend.
 Write each page so an executive can understand the business point in the first few lines.
+If a page does not change prioritization, sequencing, or ownership, move that detail to a more focused roadmap or template.
