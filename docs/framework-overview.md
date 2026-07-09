@@ -6,6 +6,17 @@ This repository helps executives and transformation teams turn strategy into a s
 It acts as the operating guide for transformation conversations that need both structure and momentum.
 The framework is meant to reduce roadmap drift and keep decisions visible.
 
+## Roadmap Flow
+
+```mermaid
+flowchart LR
+    A["Assess"] --> B["Align"]
+    B --> C["Prioritize"]
+    C --> D["Plan"]
+    D --> E["Execute"]
+    E --> F["Review"]
+```
+
 ## What It Covers
 
 - current state assessment
@@ -50,6 +61,20 @@ The framework helps the organization turn strategy into a roadmap that is sequen
 - governance model
 - impact notes
 
+## Roadmap Layers
+
+| Layer | Question | Artifact |
+| --- | --- | --- |
+| Strategy | Why are we changing? | Transformation strategy |
+| Sequence | What happens first? | Roadmap sequence |
+| Governance | Who decides? | Executive governance |
+| Execution | What gets delivered? | Transformation plan |
+| Review | What changed? | Quarterly maturity review |
+
 ## Why It Matters
 
 Without a shared roadmap framework, transformation work tends to fragment into disconnected initiatives. This repo keeps the sequence, language, and outcomes aligned.
+
+## Decision Rule
+
+If an initiative cannot be tied to an outcome, dependency, or owner, it should not be placed on the executive roadmap yet.

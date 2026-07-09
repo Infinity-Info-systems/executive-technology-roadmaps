@@ -6,6 +6,17 @@ This index organizes the repo into a front door for executive transformation pla
 Use it when you want the shortest path to the right roadmap, template, or decision framework.
 The content order is arranged so reviewers move from strategy into sequencing and then into the supporting artifacts.
 
+## Recommended Reading Path
+
+| Step | Page | Why |
+| --- | --- | --- |
+| 1 | Framework Overview | Understand the transformation model |
+| 2 | Executive Roadmap Sequence | See how work is staged |
+| 3 | Transformation Strategy | Align on priorities |
+| 4 | Executive Governance | See how decisions are managed |
+| 5 | Relevant roadmap page | Plan a specific workstream |
+| 6 | Template and maturity view | Turn the roadmap into a working plan |
+
 ## Entry Points
 
 - [Executive Roadmap Sequence](roadmaps/executive-roadmap-sequence.md)
@@ -54,3 +65,12 @@ The content order is arranged so reviewers move from strategy into sequencing an
 Use the same section structure as the other core repos so the ecosystem stays consistent and easy to extend.
 Write each page so an executive can understand the business point in the first few lines.
 If a page does not change prioritization, sequencing, or ownership, move that detail to a more focused roadmap or template.
+
+## Shortcut View
+
+| Need | Best Starting Point |
+| --- | --- |
+| Build the roadmap | Executive Roadmap Sequence |
+| Review governance | Executive Governance |
+| Translate strategy | Transformation Strategy |
+| Monitor progress | Quarterly Maturity Review |

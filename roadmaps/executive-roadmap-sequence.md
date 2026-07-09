@@ -38,6 +38,16 @@ Use this sequence to connect strategy, governance, delivery, and reporting in a 
 - refresh priorities based on outcomes
 - report status to executives
 
+## Sequence Table
+
+| Stage | Main Question | Typical Output |
+| --- | --- | --- |
+| Assess | What is the current state? | Gap summary |
+| Align | What outcomes matter? | Target outcomes |
+| Prioritize | What should happen first? | Ordered initiative list |
+| Plan | Who does what and when? | Delivery roadmap |
+| Review | What changed? | Executive status update |
+
 ## Example Roadmap View
 
 | Initiative | Horizon | Outcome | Status |
@@ -56,6 +66,10 @@ Use this sequence to connect strategy, governance, delivery, and reporting in a 
 - review the roadmap at a fixed executive cadence
 - capture decisions that change the sequence
 - use the same milestone language in every supporting doc
+
+## Roadmap Rule
+
+Each initiative should carry a business outcome, an owner, and a dependency note before it is shown as part of the executive sequence.
 
 ## Related Artifacts
 
