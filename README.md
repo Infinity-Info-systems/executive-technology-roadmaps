@@ -100,6 +100,11 @@ references/              Bibliography
 - [Transformation Plan Template](templates/transformation-plan-template.md)
 - [Quarterly Maturity Review](templates/quarterly-maturity-review.md)
 
+## Code Direction
+
+This repo now includes a typed roadmap registry in `src/` so the executive planning model can be reused in tools, dashboards, or future app surfaces.
+The code layer mirrors the documented sequence, governance questions, and initiative model so the repo can support both reading and automation.
+
 ## Executive Takeaway
 
 Use this repo when leaders need to connect transformation ambition to an executable plan.
